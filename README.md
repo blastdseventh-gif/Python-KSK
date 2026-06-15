@@ -14,3 +14,11 @@ All programs are written in **Python 3** and cover various programming concepts 
 
 ## 🚀 How to Run
 1. Clone this repository:
+2. Run any `.py` file:
+
+## 👤 Author
+**blastdseventh-gif**
+Kolej Vokasional — Information Technology Program
+
+## 📝 Note
+All codes in this repository are for educational purposes only.
